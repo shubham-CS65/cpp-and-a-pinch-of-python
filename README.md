@@ -1,0 +1,1 @@
+I have created this repository to record my journey in C++ as a beginner and share mini projects and the syntax i have understood in this journey as a fresher in artificial intelligence and data science
